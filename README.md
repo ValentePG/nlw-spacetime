@@ -16,4 +16,4 @@ Esse projeto foi desenvolvido durante o NLW da Rocketseat com as seguintes tecno
 Você pode visualizar o layout do projeto através
 [desse link](https://www.figma.com/file/XWKlcVbtJs9yO9pJFUUZZ4/C%C3%A1psula-do-tempo-%E2%80%A2-Trilha-Explorer-(Community)-(Copy)?type=design&node-id=306%3A3&t=uGBStCCnB8ClBH1T-1).
 (É necessário ter uma conta no [Figma](https://www.figma.com))
-Ou diretamente no github pages [aqui!](valentepg.github.io/nlw-spacetime/index.html)
+Ou diretamente no github pages [aqui!](https://valentepg.github.io/nlw-spacetime/index.html)
